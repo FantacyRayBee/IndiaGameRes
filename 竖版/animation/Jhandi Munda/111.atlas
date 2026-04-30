@@ -1,0 +1,111 @@
+
+111.png
+size: 384,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 186, 16
+  size: 173, 192
+  orig: 191, 192
+  offset: 10, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 232, 325
+  size: 31, 39
+  orig: 35, 43
+  offset: 2, 2
+  index: -1
+saoguang
+  rotate: true
+  xy: 2, 508
+  size: 24, 292
+  orig: 25, 292
+  offset: 1, 0
+  index: -1
+shan
+  rotate: true
+  xy: 265, 285
+  size: 56, 65
+  orig: 61, 72
+  offset: 2, 3
+  index: -1
+图层 11
+  rotate: false
+  xy: 232, 366
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+图层 12
+  rotate: true
+  xy: 56, 11
+  size: 178, 128
+  orig: 180, 130
+  offset: 1, 1
+  index: -1
+图层 13
+  rotate: true
+  xy: 2, 191
+  size: 207, 228
+  orig: 209, 230
+  offset: 1, 1
+  index: -1
+图层 2
+  rotate: false
+  xy: 2, 400
+  size: 266, 106
+  orig: 268, 109
+  offset: 1, 2
+  index: -1
+图层 3
+  rotate: true
+  xy: 2, 2
+  size: 187, 52
+  orig: 189, 54
+  offset: 1, 1
+  index: -1
+图层 4
+  rotate: true
+  xy: 270, 343
+  size: 93, 99
+  orig: 95, 101
+  offset: 1, 1
+  index: -1
+图层 5
+  rotate: false
+  xy: 296, 438
+  size: 86, 94
+  orig: 88, 96
+  offset: 1, 1
+  index: -1
+图层 6
+  rotate: false
+  xy: 332, 260
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+图层 7
+  rotate: false
+  xy: 232, 194
+  size: 61, 64
+  orig: 63, 66
+  offset: 1, 1
+  index: -1
+图层 8
+  rotate: false
+  xy: 295, 196
+  size: 55, 62
+  orig: 57, 64
+  offset: 1, 1
+  index: -1
+图层 9
+  rotate: false
+  xy: 332, 303
+  size: 42, 38
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
