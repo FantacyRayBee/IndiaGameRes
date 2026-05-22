@@ -1,0 +1,83 @@
+
+rk_ZeusPower.png
+size: 931,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 38
+  size: 266, 103
+  orig: 266, 118
+  offset: 0, 15
+  index: -1
+di
+  rotate: false
+  xy: 306, 76
+  size: 207, 228
+  orig: 207, 228
+  offset: 0, 0
+  index: -1
+dian1_000
+  rotate: false
+  xy: 700, 2
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+dian1_001
+  rotate: true
+  xy: 812, 4
+  size: 126, 117
+  orig: 126, 117
+  offset: 0, 0
+  index: -1
+dian1_003
+  rotate: false
+  xy: 522, 2
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+dian1_004
+  rotate: false
+  xy: 586, 25
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+dian1_005
+  rotate: false
+  xy: 306, 5
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: true
+  xy: 107, 48
+  size: 256, 197
+  orig: 256, 198
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: true
+  xy: 515, 91
+  size: 213, 183
+  orig: 215, 187
+  offset: 1, 2
+  index: -1
+man
+  rotate: false
+  xy: 700, 132
+  size: 191, 172
+  orig: 191, 172
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 375, 9
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1

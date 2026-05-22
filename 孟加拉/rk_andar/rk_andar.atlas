@@ -1,0 +1,76 @@
+
+rk_andar.png
+size: 647,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 304, 134
+  size: 266, 116
+  orig: 266, 116
+  offset: 0, 0
+  index: -1
+111
+  rotate: true
+  xy: 257, 63
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 73, 11
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 434, 16
+  size: 154, 98
+  orig: 154, 98
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 97
+  size: 303, 300
+  orig: 303, 300
+  offset: 0, 0
+  index: -1
+A
+  rotate: true
+  xy: 144, 20
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 534, 34
+  size: 111, 136
+  orig: 111, 136
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 422, 172
+  size: 203, 228
+  orig: 203, 228
+  offset: 0, 0
+  index: -1
+staraY
+  rotate: false
+  xy: 304, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

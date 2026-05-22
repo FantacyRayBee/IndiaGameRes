@@ -1,0 +1,62 @@
+
+icon_multiteenpatti.png
+size: 890,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_0993
+  rotate: false
+  xy: 2, 12
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+a_f
+  rotate: false
+  xy: 686, 13
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+a_t
+  rotate: false
+  xy: 776, 21
+  size: 112, 122
+  orig: 113, 122
+  offset: 1, 0
+  index: -1
+a_x
+  rotate: true
+  xy: 571, 11
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: -1
+cm
+  rotate: true
+  xy: 724, 145
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 260, 41
+  size: 204, 227
+  orig: 204, 227
+  offset: 0, 0
+  index: -1
+nv
+  rotate: false
+  xy: 571, 108
+  size: 151, 160
+  orig: 165, 160
+  offset: 7, 0
+  index: -1
+pd
+  rotate: true
+  xy: 466, 2
+  size: 266, 103
+  orig: 266, 103
+  offset: 0, 0
+  index: -1

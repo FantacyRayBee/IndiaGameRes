@@ -1,0 +1,83 @@
+
+rk_HorseRacing.png
+size: 669,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 210, 166
+  size: 265, 115
+  orig: 265, 116
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 159, 15
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 226, 7
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+cai1
+  rotate: true
+  xy: 383, 2
+  size: 162, 139
+  orig: 162, 139
+  offset: 0, 0
+  index: -1
+cai2
+  rotate: true
+  xy: 2, 3
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 53
+  size: 206, 228
+  orig: 206, 228
+  offset: 0, 0
+  index: -1
+jinb1
+  rotate: false
+  xy: 64, 7
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+jinb2
+  rotate: false
+  xy: 118, 10
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+jinb3
+  rotate: false
+  xy: 195, 16
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+ma
+  rotate: true
+  xy: 524, 133
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1
+staraY
+  rotate: false
+  xy: 524, 11
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+rk_3patti1.png
+size: 377,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 266, 103
+  orig: 266, 103
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 270, 5
+  size: 109, 98
+  orig: 109, 98
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 221, 373
+  size: 144, 189
+  orig: 144, 189
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 221, 240
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 337
+  size: 217, 225
+  orig: 218, 225
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 107
+  size: 207, 228
+  orig: 207, 228
+  offset: 0, 0
+  index: -1
+staraY
+  rotate: false
+  xy: 211, 116
+  size: 119, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1

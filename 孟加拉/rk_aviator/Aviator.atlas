@@ -1,0 +1,48 @@
+
+Aviator.png
+size: 698,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan1
+  rotate: false
+  xy: 2, 14
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+dan2
+  rotate: true
+  xy: 49, 3
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 38
+  size: 202, 228
+  orig: 202, 228
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: true
+  xy: 419, 41
+  size: 225, 172
+  orig: 225, 172
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 206, 50
+  size: 216, 211
+  orig: 216, 211
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 593, 2
+  size: 264, 103
+  orig: 264, 103
+  offset: 0, 0
+  index: -1

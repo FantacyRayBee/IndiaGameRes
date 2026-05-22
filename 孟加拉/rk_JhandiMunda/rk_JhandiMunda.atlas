@@ -1,0 +1,97 @@
+
+rk_JhandiMunda.png
+size: 664,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 232, 99
+  size: 173, 192
+  orig: 191, 192
+  offset: 10, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 199, 24
+  size: 31, 39
+  orig: 35, 43
+  offset: 2, 2
+  index: -1
+shan
+  rotate: true
+  xy: 68, 7
+  size: 56, 65
+  orig: 61, 72
+  offset: 2, 3
+  index: -1
+图层 11
+  rotate: true
+  xy: 621, 57
+  size: 35, 32
+  orig: 37, 34
+  offset: 1, 1
+  index: -1
+图层 12
+  rotate: true
+  xy: 534, 94
+  size: 178, 128
+  orig: 180, 130
+  offset: 1, 1
+  index: -1
+图层 13
+  rotate: true
+  xy: 2, 65
+  size: 207, 228
+  orig: 209, 230
+  offset: 1, 1
+  index: -1
+图层 2
+  rotate: true
+  xy: 426, 6
+  size: 266, 106
+  orig: 268, 109
+  offset: 1, 2
+  index: -1
+图层 4
+  rotate: true
+  xy: 232, 4
+  size: 93, 99
+  orig: 95, 101
+  offset: 1, 1
+  index: -1
+图层 5
+  rotate: false
+  xy: 333, 3
+  size: 86, 94
+  orig: 88, 96
+  offset: 1, 1
+  index: -1
+图层 6
+  rotate: false
+  xy: 534, 51
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+图层 7
+  rotate: true
+  xy: 2, 2
+  size: 61, 64
+  orig: 63, 66
+  offset: 1, 1
+  index: -1
+图层 8
+  rotate: true
+  xy: 135, 8
+  size: 55, 62
+  orig: 57, 64
+  offset: 1, 1
+  index: -1
+图层 9
+  rotate: false
+  xy: 577, 54
+  size: 42, 38
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
