@@ -1,0 +1,27 @@
+
+oncepay.png
+size: 282,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biao
+  rotate: false
+  xy: 215, 105
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 203, 211
+  orig: 203, 211
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 215, 131
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1

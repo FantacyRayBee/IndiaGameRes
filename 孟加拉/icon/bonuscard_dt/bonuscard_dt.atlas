@@ -1,0 +1,48 @@
+
+bonuscard_dt.png
+size: 297,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 37
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+jib1
+  rotate: true
+  xy: 156, 39
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+jib2
+  rotate: true
+  xy: 123, 41
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ka1
+  rotate: true
+  xy: 183, 88
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+ka2
+  rotate: true
+  xy: 123, 83
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: true
+  xy: 2, 2
+  size: 33, 293
+  orig: 35, 293
+  offset: 0, 0
+  index: -1

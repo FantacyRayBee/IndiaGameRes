@@ -1,0 +1,221 @@
+{
+"skeleton": {
+	"hash": "JAPwrm4d+wxiuL/IYJq/+4zX1a8",
+	"spine": "3.8.75",
+	"x": -36.4,
+	"y": -33,
+	"width": 76.52,
+	"height": 69.47,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root" },
+	{ "name": "xingdian_yle1", "parent": "all", "x": -25.01, "y": -9.13 },
+	{ "name": "xingdian_yle2", "parent": "all", "x": -27.92, "y": 13.13 },
+	{ "name": "xingdian_yle3", "parent": "all", "x": -15.33, "y": 25.23 },
+	{ "name": "xingdian_yle4", "parent": "all", "x": 8.38, "y": 28.14 },
+	{ "name": "xingdian_yle5", "parent": "all", "x": 26.78, "y": 17.97 },
+	{ "name": "xingdian_yle6", "parent": "all", "x": 32.58, "y": -3.32 },
+	{ "name": "xingdian_yle7", "parent": "all", "x": 25.32, "y": -18.33 }
+],
+"slots": [
+	{ "name": "img_zhuanpan", "bone": "all", "attachment": "img_zhuanpan" },
+	{ "name": "xingdian_yle1", "bone": "xingdian_yle1", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle2", "bone": "xingdian_yle2", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle3", "bone": "xingdian_yle3", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle4", "bone": "xingdian_yle4", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle5", "bone": "xingdian_yle5", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle6", "bone": "xingdian_yle6", "attachment": "xingdian_yle", "blend": "additive" },
+	{ "name": "xingdian_yle7", "bone": "xingdian_yle7", "attachment": "xingdian_yle", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"xingdian_yle1": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle2": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle3": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle4": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle5": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle6": {
+				"xingdian_yle": { "x": -0.47, "y": 0.32, "scaleX": 1.4565, "scaleY": 1.4565, "width": 11, "height": 11 }
+			},
+			"xingdian_yle7": {
+				"xingdian_yle": {
+					"x": -0.47,
+					"y": 0.32,
+					"scaleX": 1.4565,
+					"scaleY": 1.4565,
+					"rotation": -0.14,
+					"width": 11,
+					"height": 11
+				}
+			},
+			"img_zhuanpan": {
+				"img_zhuanpan": { "width": 66, "height": 66 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"xingdian_yle4": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "xingdian_yle" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1, "name": "xingdian_yle" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.6667, "name": "xingdian_yle" },
+					{ "time": 2, "name": null },
+					{ "time": 2.3333, "name": "xingdian_yle" },
+					{ "time": 2.6667, "name": null },
+					{ "time": 3, "name": "xingdian_yle" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.6667, "name": "xingdian_yle" },
+					{ "time": 4, "name": null },
+					{ "time": 4.3333, "name": "xingdian_yle" },
+					{ "time": 4.6667, "name": null },
+					{ "time": 5, "name": "xingdian_yle" },
+					{ "time": 5.3333, "name": null }
+				]
+			},
+			"xingdian_yle5": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "xingdian_yle" },
+					{ "time": 1, "name": null },
+					{ "time": 1.3333, "name": "xingdian_yle" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2, "name": "xingdian_yle" },
+					{ "time": 2.3333, "name": null },
+					{ "time": 2.6667, "name": "xingdian_yle" },
+					{ "time": 3, "name": null },
+					{ "time": 3.3333, "name": "xingdian_yle" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 4, "name": "xingdian_yle" },
+					{ "time": 4.3333, "name": null },
+					{ "time": 4.6667, "name": "xingdian_yle" },
+					{ "time": 5, "name": null },
+					{ "time": 5.3333, "name": "xingdian_yle" }
+				]
+			},
+			"xingdian_yle2": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "xingdian_yle" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1, "name": "xingdian_yle" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.6667, "name": "xingdian_yle" },
+					{ "time": 2, "name": null },
+					{ "time": 2.3333, "name": "xingdian_yle" },
+					{ "time": 2.6667, "name": null },
+					{ "time": 3, "name": "xingdian_yle" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.6667, "name": "xingdian_yle" },
+					{ "time": 4, "name": null },
+					{ "time": 4.3333, "name": "xingdian_yle" },
+					{ "time": 4.6667, "name": null },
+					{ "time": 5, "name": "xingdian_yle" },
+					{ "time": 5.3333, "name": null }
+				]
+			},
+			"xingdian_yle3": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "xingdian_yle" },
+					{ "time": 1, "name": null },
+					{ "time": 1.3333, "name": "xingdian_yle" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2, "name": "xingdian_yle" },
+					{ "time": 2.3333, "name": null },
+					{ "time": 2.6667, "name": "xingdian_yle" },
+					{ "time": 3, "name": null },
+					{ "time": 3.3333, "name": "xingdian_yle" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 4, "name": "xingdian_yle" },
+					{ "time": 4.3333, "name": null },
+					{ "time": 4.6667, "name": "xingdian_yle" },
+					{ "time": 5, "name": null },
+					{ "time": 5.3333, "name": "xingdian_yle" }
+				]
+			},
+			"xingdian_yle1": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "xingdian_yle" },
+					{ "time": 1, "name": null },
+					{ "time": 1.3333, "name": "xingdian_yle" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2, "name": "xingdian_yle" },
+					{ "time": 2.3333, "name": null },
+					{ "time": 2.6667, "name": "xingdian_yle" },
+					{ "time": 3, "name": null },
+					{ "time": 3.3333, "name": "xingdian_yle" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 4, "name": "xingdian_yle" },
+					{ "time": 4.3333, "name": null },
+					{ "time": 4.6667, "name": "xingdian_yle" },
+					{ "time": 5, "name": null },
+					{ "time": 5.3333, "name": "xingdian_yle" }
+				]
+			},
+			"xingdian_yle6": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3333, "name": "xingdian_yle" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1, "name": "xingdian_yle" },
+					{ "time": 1.3333, "name": null },
+					{ "time": 1.6667, "name": "xingdian_yle" },
+					{ "time": 2, "name": null },
+					{ "time": 2.3333, "name": "xingdian_yle" },
+					{ "time": 2.6667, "name": null },
+					{ "time": 3, "name": "xingdian_yle" },
+					{ "time": 3.3333, "name": null },
+					{ "time": 3.6667, "name": "xingdian_yle" },
+					{ "time": 4, "name": null },
+					{ "time": 4.3333, "name": "xingdian_yle" },
+					{ "time": 4.6667, "name": null },
+					{ "time": 5, "name": "xingdian_yle" },
+					{ "time": 5.3333, "name": null }
+				]
+			},
+			"xingdian_yle7": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": "xingdian_yle" },
+					{ "time": 1, "name": null },
+					{ "time": 1.3333, "name": "xingdian_yle" },
+					{ "time": 1.6667, "name": null },
+					{ "time": 2, "name": "xingdian_yle" },
+					{ "time": 2.3333, "name": null },
+					{ "time": 2.6667, "name": "xingdian_yle" },
+					{ "time": 3, "name": null },
+					{ "time": 3.3333, "name": "xingdian_yle" },
+					{ "time": 3.6667, "name": null },
+					{ "time": 4, "name": "xingdian_yle" },
+					{ "time": 4.3333, "name": null },
+					{ "time": 4.6667, "name": "xingdian_yle" },
+					{ "time": 5, "name": null },
+					{ "time": 5.3333, "name": "xingdian_yle" }
+				]
+			}
+		}
+	}
+}
+}

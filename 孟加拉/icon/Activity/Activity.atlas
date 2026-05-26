@@ -1,0 +1,20 @@
+
+Activity.png
+size: 137,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang 1
+  rotate: false
+  xy: 2, 2
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 90, 33
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+earnmoney.png
+size: 83,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_zhuanpan
+  rotate: false
+  xy: 2, 2
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+xingdian_yle
+  rotate: false
+  xy: 70, 57
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

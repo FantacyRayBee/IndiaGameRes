@@ -1,0 +1,20 @@
+
+RsGift.png
+size: 133,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 36
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: true
+  xy: 48, 2
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1

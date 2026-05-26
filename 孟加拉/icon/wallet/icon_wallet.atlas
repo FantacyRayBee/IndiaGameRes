@@ -1,0 +1,20 @@
+
+icon_wallet.png
+size: 413,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: false
+  xy: 314, 197
+  size: 97, 107
+  orig: 104, 107
+  offset: 3, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 2
+  size: 310, 302
+  orig: 310, 302
+  offset: 0, 0
+  index: -1
