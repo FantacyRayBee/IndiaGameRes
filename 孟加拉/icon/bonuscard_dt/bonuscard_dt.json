@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "0nGAGOjI3/FW70Og4D2M375yVBQ",
+	"hash": "wZIfHAWZo5z8ZRUGYk+BNh/06kQ",
 	"spine": "3.8.75",
-	"x": -52.64,
-	"y": -4.93,
-	"width": 109.92,
-	"height": 62.98,
+	"x": -69.2,
+	"y": -20.72,
+	"width": 126.49,
+	"height": 119.12,
 	"images": "E:/AA工作文件/Spine/images/bonuscard_dt",
 	"audio": ""
 },
@@ -52,7 +52,7 @@
 				"guang": { "rotation": 0.06, "width": 119, "height": 119 }
 			},
 			"saoguang": {
-				"saoguang": { "x": 4.06, "y": 11.66, "rotation": -20.38, "width": 35, "height": 293 }
+				"saoguang": { "color": "ffffffba", "x": 4.06, "y": 11.66, "rotation": -20.38, "width": 35, "height": 293 }
 			},
 			"img/rukou/ka1": {
 				"ka1": { "x": 0.86, "y": -3.55, "width": 68, "height": 59 }
@@ -86,7 +86,7 @@
 			"saoguang2": {
 				"translate": [
 					{},
-					{ "time": 5.6667, "x": 198.92 }
+					{ "time": 2, "x": 198.92 }
 				]
 			}
 		}
