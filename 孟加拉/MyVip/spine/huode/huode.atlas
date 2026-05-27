@@ -1,0 +1,48 @@
+
+huode.png
+size: 686,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+77_1
+  rotate: true
+  xy: 398, 124
+  size: 320, 110
+  orig: 320, 110
+  offset: 0, 0
+  index: -1
+77_2
+  rotate: false
+  xy: 2, 50
+  size: 394, 394
+  orig: 394, 394
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 520, 51
+  size: 188, 161
+  orig: 188, 161
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 510, 241
+  size: 203, 174
+  orig: 203, 174
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: true
+  xy: 2, 15
+  size: 33, 293
+  orig: 35, 293
+  offset: 0, 0
+  index: -1
+staraY
+  rotate: false
+  xy: 398, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
