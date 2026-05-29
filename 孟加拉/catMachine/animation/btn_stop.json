@@ -1,0 +1,84 @@
+{
+"skeleton": {
+	"hash": "x3g9M1U6tuRySRbxOw0NkGYjn/g",
+	"spine": "3.8.75",
+	"x": -139.76,
+	"y": -52.14,
+	"width": 279.76,
+	"height": 96.14,
+	"images": "E:/AA工作文件/孟加拉版/catMachine/spine",
+	"audio": "E:/美术-露/spine/原始图/cocos/btnstop"
+},
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "saoguang",
+		"parent": "root",
+		"rotation": 49.95,
+		"x": -90.97,
+		"y": -9.1,
+		"scaleX": 0.9534,
+		"scaleY": 1.3421
+	},
+	{ "name": "yingzi", "parent": "root", "y": -4.85 }
+],
+"slots": [
+	{ "name": "zhuti", "bone": "root", "attachment": "zhuti" },
+	{ "name": "yingzi", "bone": "yingzi", "color": "ffffffab", "attachment": "yingzi", "blend": "additive" },
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "saoguang", "bone": "saoguang", "attachment": "saoguang", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 44,
+					"vertices": [ -41.47, 23.34, -41.47, 15.55, -19.95, 15.74, -36.57, 6.75, -36.44, -3.56, -32.42, -3.66, -25.92, -6.08, -21.37, -8.27, -17.92, -11.17, -13.8, -15.69, -8.18, -15.61, -7.82, 15.32, 18.93, 15.44, 19.13, 11.76, 15.59, 13.8, 9.04, 15.48, 0.53, 14.73, -3, 10.66, -3.19, 5.67, -1.15, 1.03, 2.87, -0.07, 7.13, 0.96, 9.96, 3.96, 10.22, 6.74, 14.6, 4.18, 7.06, -1.29, 1.53, -5.47, 1.47, -14.08, 6.63, -15.08, 12.16, -16.69, 17.13, -18.9, 22.24, -22.09, 27.27, -22.41, 27.61, -0.68, 29.58, -0.45, 29.9, -19.28, 38.52, -18.66, 38.58, 4.81, 33.51, 9.88, 27.85, 9.29, 28.01, 15.48, 43.06, 15.7, 43.11, 23.02, -2.68, 23.18 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"saoguang": {
+				"saoguang": { "x": 2.55, "y": 1.18, "width": 43, "height": 70 }
+			},
+			"yingzi": {
+				"yingzi": { "x": 0.5, "y": 2, "width": 91, "height": 52 }
+			},
+			"zhuti": {
+				"zhuti": { "x": 0.5, "y": -1, "width": 279, "height": 90 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"yingzi": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"yingzi": {
+				"scale": [
+					{ "time": 0.8333 },
+					{ "time": 1.5, "x": 1.478, "y": 1.478 }
+				]
+			},
+			"saoguang": {
+				"translate": [
+					{},
+					{ "time": 0.8333, "x": 178.56, "y": 36.72 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,20 @@
+
+icon_holdauto.png
+size: 271,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang
+  rotate: false
+  xy: 249, 7
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 2
+  size: 245, 48
+  orig: 246, 48
+  offset: 1, 0
+  index: -1

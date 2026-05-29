@@ -1,0 +1,27 @@
+
+btn_stop.png
+size: 382,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang
+  rotate: false
+  xy: 337, 22
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 283, 2
+  size: 90, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 2, 2
+  size: 279, 90
+  orig: 279, 90
+  offset: 0, 0
+  index: -1
