@@ -1,0 +1,13 @@
+
+Start Betting.png
+size: 704,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 700, 80
+  orig: 700, 80
+  offset: 0, 0
+  index: -1
