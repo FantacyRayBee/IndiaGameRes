@@ -1,0 +1,50 @@
+{
+"skeleton": { "hash": "98UzjNzn8dFOAUZEfWOkaqWPJ+w", "spine": "3.8.75", "images": "E:/AA工作文件/Spine/images/an_chickenroad/chickenroad", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root" },
+	{ "name": "kkk", "parent": "all", "length": 345.41, "rotation": 90, "y": -24.38 },
+	{ "name": "win", "parent": "kkk", "rotation": -90, "x": 79.38 },
+	{ "name": "ora", "parent": "kkk", "rotation": -90, "x": -5.62 },
+	{ "name": "number", "parent": "kkk", "rotation": -90, "x": -67.96, "y": -28.15 },
+	{ "name": "icon", "parent": "kkk", "rotation": -90, "x": -67.68, "y": -72.17 }
+],
+"slots": [
+	{ "name": "tanchuang", "bone": "kkk", "attachment": "tanchuang" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"tanchuang": {
+				"tanchuang": { "x": 4.38, "scaleX": 0.6, "scaleY": 0.73, "rotation": -90, "width": 700, "height": 508 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"kkk": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 2.87, "curve": "stepped" },
+					{ "time": 0.4, "angle": 2.87, "curve": 0, "c2": 0.17, "c3": 0.75 },
+					{ "time": 0.5667, "angle": -2.66 },
+					{ "time": 0.7333, "angle": 2.78 },
+					{ "time": 0.9, "angle": -3.16 },
+					{ "time": 1.1667, "angle": 3.25 },
+					{ "time": 1.3667, "angle": -2.72 },
+					{ "time": 1.4333, "angle": 0.17 }
+				],
+				"scale": [
+					{ "x": 0.88, "y": 0.88 },
+					{ "time": 0.1667, "x": 0.799, "y": 0.784, "curve": "stepped" },
+					{ "time": 0.4, "x": 0.799, "y": 0.784, "curve": 0, "c2": 0.17, "c3": 0.75 },
+					{ "time": 0.5667, "x": 0.975, "y": 0.956 }
+				]
+			}
+		}
+	}
+}
+}

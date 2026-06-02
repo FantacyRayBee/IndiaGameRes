@@ -1,0 +1,13 @@
+
+win_k.png
+size: 704,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tanchuang
+  rotate: false
+  xy: 2, 2
+  size: 700, 508
+  orig: 700, 508
+  offset: 0, 0
+  index: -1
