@@ -1,5 +1,14 @@
 {
-"skeleton": { "hash": "ynARK9DULC3e8B/rS8EFPVLzKp4", "spine": "3.8.75", "images": "E:/AA工作文件/Spine/images/vs_longhu", "audio": "E:\\AAA工作文件\\lhdGame\\lhdGame\\lhdSke" },
+"skeleton": {
+	"hash": "+ngxFEQJxXaET9CuGHnhntOVA+w",
+	"spine": "3.8.75",
+	"x": -823.5,
+	"y": -228.49,
+	"width": 1647,
+	"height": 374.48,
+	"images": "",
+	"audio": "E:/AAA工作文件/lhdGame/lhdGame/lhdSke"
+},
 "bones": [
 	{ "name": "root" },
 	{ "name": "bone", "parent": "root", "x": -1.14, "y": 19.76 },
@@ -28,26 +37,26 @@
 		"name": "default",
 		"attachments": {
 			"Start Betting": {
-				"Start Betting": { "x": 0.14, "y": -6.85, "width": 350, "height": 51 }
+				"Start Betting": { "x": 0.14, "y": -6.85, "width": 349, "height": 61 }
 			},
 			"tx": {
-				"tx/VS_00005": { "width": 734, "height": 300 },
-				"tx/VS_00006": { "width": 734, "height": 300 },
-				"tx/VS_00007": { "width": 734, "height": 300 },
-				"tx/VS_00008": { "width": 734, "height": 300 },
-				"tx/VS_00009": { "width": 734, "height": 300 },
-				"tx/VS_00010": { "width": 734, "height": 300 },
-				"tx/VS_00011": { "width": 734, "height": 300 },
-				"tx/VS_00012": { "width": 734, "height": 300 },
-				"tx/VS_00013": { "width": 734, "height": 300 },
-				"tx/VS_00014": { "width": 734, "height": 300 },
-				"tx/VS_00015": { "width": 734, "height": 300 },
-				"tx/VS_00016": { "width": 734, "height": 300 },
-				"tx/VS_00018": { "width": 734, "height": 300 },
-				"tx/VS_00020": { "width": 734, "height": 300 },
-				"tx/VS_00022": { "width": 734, "height": 300 },
-				"tx/VS_00024": { "width": 734, "height": 300 },
-				"tx/VS_00026": { "width": 734, "height": 300 }
+				"tx/VS_00005": { "width": 102, "height": 244 },
+				"tx/VS_00006": { "width": 114, "height": 216 },
+				"tx/VS_00007": { "width": 126, "height": 195 },
+				"tx/VS_00008": { "width": 210, "height": 162 },
+				"tx/VS_00009": { "width": 139, "height": 197 },
+				"tx/VS_00010": { "width": 144, "height": 239 },
+				"tx/VS_00011": { "width": 150, "height": 279 },
+				"tx/VS_00012": { "width": 150, "height": 285 },
+				"tx/VS_00013": { "width": 151, "height": 288 },
+				"tx/VS_00014": { "width": 151, "height": 284 },
+				"tx/VS_00015": { "width": 153, "height": 160 },
+				"tx/VS_00016": { "width": 149, "height": 188 },
+				"tx/VS_00018": { "width": 152, "height": 148 },
+				"tx/VS_00020": { "width": 148, "height": 164 },
+				"tx/VS_00022": { "width": 151, "height": 157 },
+				"tx/VS_00024": { "width": 184, "height": 146 },
+				"tx/VS_00026": { "width": 122, "height": 129 }
 			},
 			"hu2": {
 				"hu": { "x": -471.32, "y": -10.8, "width": 754, "height": 206 }
@@ -79,6 +88,71 @@
 "animations": {
 	"animation": {
 		"slots": {
+			"hu2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"v": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"long": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"Start Betting": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"hu": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff00" }
+				]
+			},
+			"s2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"long2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"v2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
 			"s": {
 				"color": [
 					{ "color": "ffffff00" },
@@ -107,71 +181,6 @@
 					{ "time": 0.8, "name": "tx/VS_00024" },
 					{ "time": 0.8667, "name": "tx/VS_00026" },
 					{ "time": 0.9, "name": null }
-				]
-			},
-			"v2": {
-				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.1333, "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff" },
-					{ "time": 0.6667, "color": "ffffff00" }
-				]
-			},
-			"hu": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 1.1667, "color": "ffffff00" }
-				]
-			},
-			"Start Betting": {
-				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.1667, "color": "ffffff00" },
-					{ "time": 0.3667, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 1.1667, "color": "ffffff00" }
-				]
-			},
-			"long": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 1.1667, "color": "ffffff00" }
-				]
-			},
-			"v": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 1.1667, "color": "ffffff00" }
-				]
-			},
-			"s2": {
-				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.1333, "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff" },
-					{ "time": 0.6667, "color": "ffffff00" }
-				]
-			},
-			"long2": {
-				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.1333, "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff" },
-					{ "time": 0.6667, "color": "ffffff00" }
-				]
-			},
-			"hu2": {
-				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
-					{ "time": 0.1333, "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffffff" },
-					{ "time": 0.6667, "color": "ffffff00" }
 				]
 			}
 		},
