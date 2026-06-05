@@ -1,5 +1,5 @@
 
-vs_longhu.png
+vs_longhu_Bengali.png
 size: 1795,2022
 format: RGBA8888
 filter: Linear,Linear
@@ -131,7 +131,7 @@ v
   offset: 0, 0
   index: -1
 
-vs_longhu2.png
+vs_longhu_Bengali2.png
 size: 1474,606
 format: RGBA8888
 filter: Linear,Linear
